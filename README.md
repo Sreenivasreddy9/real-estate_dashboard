@@ -99,3 +99,21 @@ The main objectives of this project are:
 - Compare attrition across gender and age groups
 - Provide an interactive dashboard for HR decision-making
 
+ ## 🛠️ Tools & Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Visualization
+- Data Analysis
+
+## 📂 Project Structure
+
+```text
+HR-Analytics/
+│
+├── HR_Analytics.pbix
+├── HR_Data.csv
+├── README.md
+└── dashboard.png
+
