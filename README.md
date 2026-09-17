@@ -90,15 +90,18 @@ Age groups include:
 ## 🎯 Objectives
 
 The main objectives of this project are:
+Departmental Risk: Identify high-turnover departments and job roles to pinpoint management or workload friction.
 
-- Analyze employee attrition
-- Identify departments with higher attrition
-- Understand employee demographics
-- Analyze job satisfaction
-- Study education-wise attrition
-- Compare attrition across gender and age groups
-- Provide an interactive dashboard for HR decision-making
+Demographic Trends: Analyze attrition across age, gender, and commute distance to catch life-stage turnover drivers.
 
+Education & Career Alignment: Map turnover against education fields to spot misaligned career paths or over-qualification.
+
+Satisfaction Drivers: Measure how job satisfaction, work-life balance, and work environment ratings trigger exits.
+
+Compensation & Growth: Track the impact of pay levels, stock options, and delayed promotions on employee retention.
+
+Interactive HR Dashboard: Deliver a real-time BI tool with drill-down filters to guide executive retention strategy
+- 
  ## 🛠️ Tools & Technologies
 
 - Microsoft Power BI
